@@ -8,6 +8,7 @@ calls = []
 x = 0 
 while x < array.length 
 calls << array[x].capitalize + "! "
+x += 1 
 end 
 calls 
 end
