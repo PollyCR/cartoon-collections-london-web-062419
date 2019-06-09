@@ -24,8 +24,6 @@ def long_planeteer_calls(array)
   end 
 end
 
-long_planeteer_calls(call_screams)
-
 
 cheese_types = ["cheddar", "gouda", "camembert"]
 snacks = ["crackers", "gouda", "thyme"]
@@ -35,5 +33,3 @@ def find_the_cheese(array)
     cheese_types.include?(type)
   end 
 end
-
-find_the_cheese(snacks)
