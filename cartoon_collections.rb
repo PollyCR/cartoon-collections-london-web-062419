@@ -4,7 +4,7 @@ puts "#{number+1} #{dwarf}."
 end
 end 
 def summon_captain_planet(planeteer_calls)
-planeteer_calls.collect.each do 
+puts planeteer_calls.
 end
 
 def long_planeteer_calls# code an argument here
