@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
 array.collect.each_with_index do |dwarf,number|
-puts "#{number}! You are assigned to room #{index+1}."
+puts "#{number} #{dwarf}."
 end
 
 def summon_captain_planet# code an argument here
