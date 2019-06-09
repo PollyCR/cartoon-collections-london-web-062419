@@ -1,5 +1,5 @@
 def roll_call_dwarves(array)
-  puts array.join(\n)
+  puts array.split("\n")
 end
 
 def summon_captain_planet# code an argument here
