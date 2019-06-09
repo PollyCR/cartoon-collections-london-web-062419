@@ -4,8 +4,7 @@ puts "#{number+1} #{dwarf}."
 end
 end 
 def summon_captain_planet(array)
-  planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-puts planeteer_calls.map.join("! ")
+array each do 
 end
 
 def long_planeteer_calls# code an argument here
