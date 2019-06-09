@@ -4,7 +4,8 @@ puts "#{number+1} #{dwarf}."
 end
 end 
 def summon_captain_planet(array)
-array each do capitalize
+calls = []
+
 end
 
 def long_planeteer_calls# code an argument here
