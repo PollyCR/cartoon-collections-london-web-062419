@@ -5,7 +5,8 @@ end
 end 
 def summon_captain_planet(array)
 calls = []
-
+x = 0 
+while i 
 end
 
 def long_planeteer_calls# code an argument here
