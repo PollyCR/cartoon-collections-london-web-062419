@@ -13,8 +13,6 @@ def summon_captain_planet(array)
   nu_array
 end
 
-summon_captain_planet(array)
-
 
 def long_planeteer_calls(array) 
   i = 0 
