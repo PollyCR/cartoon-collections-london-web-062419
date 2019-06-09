@@ -5,7 +5,7 @@ end
 end 
 def summon_captain_planet(array)
   planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-puts planeteer_calls.map.capitalize.join("! ")
+puts planeteer_calls.map.join("! ")
 end
 
 def long_planeteer_calls# code an argument here
