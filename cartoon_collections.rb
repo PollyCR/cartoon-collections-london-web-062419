@@ -8,7 +8,8 @@ calls = []
 x = 0 
 while x < array.length 
 calls << array[x].capitalize + "! "
-
+end 
+calls 
 end
 
 def long_planeteer_calls# code an argument here
